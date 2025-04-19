@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/akshaysp75.github.io/Book-Store/static/css/main.99e79593.css",
-    "main.js": "/akshaysp75.github.io/Book-Store/static/js/main.10632772.js",
-    "static/media/showcase-bg.jpg": "/akshaysp75.github.io/Book-Store/static/media/showcase-bg.7e07fee5ec40aa0cc914.jpg",
-    "static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg": "/akshaysp75.github.io/Book-Store/static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.2295b3dd660268fc64a5.jpg",
-    "static/media/cart.svg": "/akshaysp75.github.io/Book-Store/static/media/cart.6bc949f65056b4bf6be84182cd845ffb.svg",
-    "index.html": "/akshaysp75.github.io/Book-Store/index.html",
-    "main.99e79593.css.map": "/akshaysp75.github.io/Book-Store/static/css/main.99e79593.css.map",
-    "main.10632772.js.map": "/akshaysp75.github.io/Book-Store/static/js/main.10632772.js.map"
+    "main.css": "/Book-Store/static/css/main.eddda17a.css",
+    "main.js": "/Book-Store/static/js/main.8f0f87d8.js",
+    "static/media/showcase-bg.jpg": "/Book-Store/static/media/showcase-bg.7e07fee5ec40aa0cc914.jpg",
+    "static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg": "/Book-Store/static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.2295b3dd660268fc64a5.jpg",
+    "static/media/cart.svg": "/Book-Store/static/media/cart.6bc949f65056b4bf6be84182cd845ffb.svg",
+    "index.html": "/Book-Store/index.html",
+    "main.eddda17a.css.map": "/Book-Store/static/css/main.eddda17a.css.map",
+    "main.8f0f87d8.js.map": "/Book-Store/static/js/main.8f0f87d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.99e79593.css",
-    "static/js/main.10632772.js"
+    "static/css/main.eddda17a.css",
+    "static/js/main.8f0f87d8.js"
   ]
 }
