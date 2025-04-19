@@ -2,7 +2,7 @@
   "name": "book-ecommerce",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Elukapalli-Akshitha.github.io/Book-Store",
+  "homepage": "https://akshaysp75.github.io/Book-Store",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@testing-library/jest-dom": "^5.16.5",
@@ -15,7 +15,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.2.0",
     "react-icons": "^5.5.0",
-    "react-router-dom": "^6.11.2",
+    "react-router-dom": "^6.30.0",
     "react-scripts": "5.0.1",
     "react-stripe-checkout": "^2.6.3",
     "web-vitals": "^2.1.4"
