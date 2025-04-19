@@ -1,0 +1,103 @@
+:root {
+    --primary-color-bright: #5a67d8;
+    --primary-dark: #2d3748;
+    --white: #ffffff;
+    --error-color: #f56565;
+    --success-color: #48bb78;
+}
+
+.footer-container {
+    background-color: var(--primary-dark);
+    padding: 5rem 1rem;
+    color: var(--white);
+    text-align: center;
+}
+
+.footer-container h2 {
+    font-size: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+.footer-description {
+    font-size: 1rem;
+    color: #ccc;
+    margin-bottom: 2rem;
+}
+
+.footer-form {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.form-group {
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-label {
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+}
+
+.form-input {
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 6px;
+    border: none;
+    outline: none;
+    background-color: #2c2f33;
+    color: var(--white);
+    transition: border 0.3s ease;
+}
+
+.form-input:focus {
+    border: 1px solid var(--primary-color-bright);
+}
+
+textarea.form-input {
+    resize: vertical;
+}
+
+.form-submit {
+    background-color: var(--primary-color-bright);
+    color: var(--white);
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.form-submit:hover {
+    background-color: #434190;
+}
+
+.feedback-message {
+    margin-top: -1rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+}
+
+.feedback-message.success {
+    color: var(--success-color);
+}
+
+.feedback-message.error {
+    color: var(--error-color);
+}
+
+.footer-copy {
+    color: #aaa;
+    margin-top: 3rem;
+    font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+    .footer-form {
+        width: 100%;
+    }
+}
