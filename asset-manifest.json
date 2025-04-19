@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Book-Store/static/css/main.eddda17a.css",
+    "main.css": "/Book-Store/static/css/main.689ecbc4.css",
     "main.js": "/Book-Store/static/js/main.8f0f87d8.js",
     "static/media/showcase-bg.jpg": "/Book-Store/static/media/showcase-bg.7e07fee5ec40aa0cc914.jpg",
     "static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg": "/Book-Store/static/media/Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.2295b3dd660268fc64a5.jpg",
     "static/media/cart.svg": "/Book-Store/static/media/cart.6bc949f65056b4bf6be84182cd845ffb.svg",
     "index.html": "/Book-Store/index.html",
-    "main.eddda17a.css.map": "/Book-Store/static/css/main.eddda17a.css.map",
+    "main.689ecbc4.css.map": "/Book-Store/static/css/main.689ecbc4.css.map",
     "main.8f0f87d8.js.map": "/Book-Store/static/js/main.8f0f87d8.js.map"
   },
   "entrypoints": [
-    "static/css/main.eddda17a.css",
+    "static/css/main.689ecbc4.css",
     "static/js/main.8f0f87d8.js"
   ]
 }
